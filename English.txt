@@ -1,0 +1,13 @@
+Super Hook Translation Strings
+
+"Press Start" = "Your Translation Here"
+"Select Level" = "Your Translation Here"
+"'Settings" = "Your Translation Here"
+"Music" = "Your Translation Here"
+"Select Language" = "Your Translation Here"
+"Level" = "Your Translation Here"
+"Score" = "Your Translation Here"
+"Level Cleared! Next level >>>" = "Your Translation Here"
+"Press to continue..." = "Your Translation Here"
+"Congratulations" = "Your Translation Here"
+Credit Name Here = "Here"
