@@ -10,4 +10,5 @@ Super Hook Translation Strings
 "Level Cleared! Next level >>>" = "Your Translation Here"
 "Press to continue..." = "Your Translation Here"
 "Congratulations" = "Your Translation Here"
+"You Lost" = "Your Translation Here"
 Credit Name Here = "Here"
